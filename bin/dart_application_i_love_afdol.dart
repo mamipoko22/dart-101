@@ -1,5 +1,5 @@
-import 'package:dart_application_i_love_afdol/dart_application_i_love_afdol.dart' as dart_application_i_love_afdol;
+import 'package:dart_application_i_love_afdol/basic.dart' as dart_basic;
 
 void main(List<String> arguments) {
-  print('Hello world: ${dart_application_i_love_afdol.calculate()}!');
+  dart_basic.main();
 }
